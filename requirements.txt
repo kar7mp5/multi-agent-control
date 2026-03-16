@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pybullet
+gymnasium
+stable-baselines3
+casadi
+setuptools<82
+gym-pybullet-drones @ git+https://github.com/utiasDSL/gym-pybullet-drones.git
+# safe-control-gym @ git+https://github.com/utiasDSL/safe-control-gym.git
